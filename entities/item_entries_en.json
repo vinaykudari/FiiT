@@ -1,0 +1,1446 @@
+[
+  {
+    "value": "wallet",
+    "synonyms": [
+      "wallet",
+      "purse",
+      "handbag"
+    ]
+  },
+  {
+    "value": "bag",
+    "synonyms": [
+      "bag",
+      "college bag",
+      "school bag",
+      "carrying bag",
+      "laptop bag"
+    ]
+  },
+  {
+    "value": "phone",
+    "synonyms": [
+      "phone",
+      "mobile",
+      "cell phone"
+    ]
+  },
+  {
+    "value": "book",
+    "synonyms": [
+      "book",
+      "notes",
+      "text book",
+      "library book"
+    ]
+  },
+  {
+    "value": "laptop",
+    "synonyms": [
+      "laptop",
+      "macbook",
+      "ultrabook",
+      "notebook"
+    ]
+  },
+  {
+    "value": "spectacles",
+    "synonyms": [
+      "spects",
+      "glasses",
+      "sun glasses"
+    ]
+  },
+  {
+    "value": "mouse",
+    "synonyms": [
+      "mouse",
+      "laptop mouse"
+    ]
+  },
+  {
+    "value": "earphones",
+    "synonyms": [
+      "earphones",
+      "headphones"
+    ]
+  },
+  {
+    "value": "money",
+    "synonyms": [
+      "money",
+      "fees"
+    ]
+  },
+  {
+    "value": "clothes",
+    "synonyms": [
+      "clothes",
+      "shirt",
+      "pant",
+      "short",
+      "tshirt",
+      "jeans",
+      "blanket"
+    ]
+  },
+  {
+    "value": "class notes",
+    "synonyms": [
+      "class notes"
+    ]
+  },
+  {
+    "value": "mess fee",
+    "synonyms": [
+      "mess fee"
+    ]
+  },
+  {
+    "value": "novel",
+    "synonyms": [
+      "novel"
+    ]
+  },
+  {
+    "value": "this",
+    "synonyms": [
+      "this"
+    ]
+  },
+  {
+    "value": "classnotes",
+    "synonyms": [
+      "classnotes"
+    ]
+  },
+  {
+    "value": "shoes",
+    "synonyms": [
+      "shoes"
+    ]
+  },
+  {
+    "value": "charger",
+    "synonyms": [
+      "charger",
+      "laptop charger",
+      "phone charger",
+      "tablet charger"
+    ]
+  },
+  {
+    "value": "watch",
+    "synonyms": [
+      "watch",
+      "casio watch",
+      "fastrack watch",
+      "titan watch",
+      "sonata watch"
+    ]
+  },
+  {
+    "value": "keys",
+    "synonyms": [
+      "keys",
+      "bunch of keys",
+      "set of keys"
+    ]
+  },
+  {
+    "value": "dog",
+    "synonyms": [
+      "dog"
+    ]
+  },
+  {
+    "value": "cat",
+    "synonyms": [
+      "cat"
+    ]
+  },
+  {
+    "value": "physics record",
+    "synonyms": [
+      "physics record"
+    ]
+  },
+  {
+    "value": "camera",
+    "synonyms": [
+      "camera"
+    ]
+  },
+  {
+    "value": "water bottle",
+    "synonyms": [
+      "water bottle"
+    ]
+  },
+  {
+    "value": "pen",
+    "synonyms": [
+      "pen"
+    ]
+  },
+  {
+    "value": "iphone charger",
+    "synonyms": [
+      "iphone charger"
+    ]
+  },
+  {
+    "value": "slippers",
+    "synonyms": [
+      "slippers"
+    ]
+  },
+  {
+    "value": "heart",
+    "synonyms": [
+      "heart"
+    ]
+  },
+  {
+    "value": "eraser",
+    "synonyms": [
+      "eraser"
+    ]
+  },
+  {
+    "value": "cap",
+    "synonyms": [
+      "cap"
+    ]
+  },
+  {
+    "value": "chips",
+    "synonyms": [
+      "chips"
+    ]
+  },
+  {
+    "value": "hump back whale",
+    "synonyms": [
+      "hump back whale"
+    ]
+  },
+  {
+    "value": "apple macbook",
+    "synonyms": [
+      "apple macbook"
+    ]
+  },
+  {
+    "value": "facewash",
+    "synonyms": [
+      "facewash"
+    ]
+  },
+  {
+    "value": "soap",
+    "synonyms": [
+      "soap"
+    ]
+  },
+  {
+    "value": "angle",
+    "synonyms": [
+      "angle"
+    ]
+  },
+  {
+    "value": "ant",
+    "synonyms": [
+      "ant"
+    ]
+  },
+  {
+    "value": "apple",
+    "synonyms": [
+      "apple"
+    ]
+  },
+  {
+    "value": "arch",
+    "synonyms": [
+      "arch"
+    ]
+  },
+  {
+    "value": "arm",
+    "synonyms": [
+      "arm"
+    ]
+  },
+  {
+    "value": "army",
+    "synonyms": [
+      "army"
+    ]
+  },
+  {
+    "value": "baby",
+    "synonyms": [
+      "baby"
+    ]
+  },
+  {
+    "value": "bag",
+    "synonyms": [
+      "bag"
+    ]
+  },
+  {
+    "value": "ball",
+    "synonyms": [
+      "ball"
+    ]
+  },
+  {
+    "value": "band",
+    "synonyms": [
+      "band"
+    ]
+  },
+  {
+    "value": "basin",
+    "synonyms": [
+      "basin"
+    ]
+  },
+  {
+    "value": "basket",
+    "synonyms": [
+      "basket"
+    ]
+  },
+  {
+    "value": "bath",
+    "synonyms": [
+      "bath"
+    ]
+  },
+  {
+    "value": "bed",
+    "synonyms": [
+      "bed"
+    ]
+  },
+  {
+    "value": "bee",
+    "synonyms": [
+      "bee"
+    ]
+  },
+  {
+    "value": "bell",
+    "synonyms": [
+      "bell"
+    ]
+  },
+  {
+    "value": "berry",
+    "synonyms": [
+      "berry"
+    ]
+  },
+  {
+    "value": "bird",
+    "synonyms": [
+      "bird"
+    ]
+  },
+  {
+    "value": "blade",
+    "synonyms": [
+      "blade"
+    ]
+  },
+  {
+    "value": "board",
+    "synonyms": [
+      "board"
+    ]
+  },
+  {
+    "value": "boat",
+    "synonyms": [
+      "boat"
+    ]
+  },
+  {
+    "value": "bone",
+    "synonyms": [
+      "bone"
+    ]
+  },
+  {
+    "value": "book",
+    "synonyms": [
+      "book"
+    ]
+  },
+  {
+    "value": "boot",
+    "synonyms": [
+      "boot"
+    ]
+  },
+  {
+    "value": "bottle",
+    "synonyms": [
+      "bottle"
+    ]
+  },
+  {
+    "value": "box",
+    "synonyms": [
+      "box"
+    ]
+  },
+  {
+    "value": "boy",
+    "synonyms": [
+      "boy"
+    ]
+  },
+  {
+    "value": "brain",
+    "synonyms": [
+      "brain"
+    ]
+  },
+  {
+    "value": "brake",
+    "synonyms": [
+      "brake"
+    ]
+  },
+  {
+    "value": "branch",
+    "synonyms": [
+      "branch"
+    ]
+  },
+  {
+    "value": "brick",
+    "synonyms": [
+      "brick"
+    ]
+  },
+  {
+    "value": "bridge",
+    "synonyms": [
+      "bridge"
+    ]
+  },
+  {
+    "value": "brush",
+    "synonyms": [
+      "brush"
+    ]
+  },
+  {
+    "value": "bucket",
+    "synonyms": [
+      "bucket"
+    ]
+  },
+  {
+    "value": "bulb",
+    "synonyms": [
+      "bulb"
+    ]
+  },
+  {
+    "value": "button",
+    "synonyms": [
+      "button"
+    ]
+  },
+  {
+    "value": "cake",
+    "synonyms": [
+      "cake"
+    ]
+  },
+  {
+    "value": "camera",
+    "synonyms": [
+      "camera"
+    ]
+  },
+  {
+    "value": "card",
+    "synonyms": [
+      "card"
+    ]
+  },
+  {
+    "value": "cart",
+    "synonyms": [
+      "cart"
+    ]
+  },
+  {
+    "value": "carriage",
+    "synonyms": [
+      "carriage"
+    ]
+  },
+  {
+    "value": "cat",
+    "synonyms": [
+      "cat"
+    ]
+  },
+  {
+    "value": "chain",
+    "synonyms": [
+      "chain"
+    ]
+  },
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese"
+    ]
+  },
+  {
+    "value": "chest",
+    "synonyms": [
+      "chest"
+    ]
+  },
+  {
+    "value": "chin",
+    "synonyms": [
+      "chin"
+    ]
+  },
+  {
+    "value": "church",
+    "synonyms": [
+      "church"
+    ]
+  },
+  {
+    "value": "circle",
+    "synonyms": [
+      "circle"
+    ]
+  },
+  {
+    "value": "clock",
+    "synonyms": [
+      "clock"
+    ]
+  },
+  {
+    "value": "cloud",
+    "synonyms": [
+      "cloud"
+    ]
+  },
+  {
+    "value": "coat",
+    "synonyms": [
+      "coat"
+    ]
+  },
+  {
+    "value": "collar",
+    "synonyms": [
+      "collar"
+    ]
+  },
+  {
+    "value": "comb",
+    "synonyms": [
+      "comb"
+    ]
+  },
+  {
+    "value": "cord",
+    "synonyms": [
+      "cord"
+    ]
+  },
+  {
+    "value": "cow",
+    "synonyms": [
+      "cow"
+    ]
+  },
+  {
+    "value": "cup",
+    "synonyms": [
+      "cup"
+    ]
+  },
+  {
+    "value": "curtain",
+    "synonyms": [
+      "curtain"
+    ]
+  },
+  {
+    "value": "cushion",
+    "synonyms": [
+      "cushion"
+    ]
+  },
+  {
+    "value": "dog",
+    "synonyms": [
+      "dog"
+    ]
+  },
+  {
+    "value": "door",
+    "synonyms": [
+      "door"
+    ]
+  },
+  {
+    "value": "drain",
+    "synonyms": [
+      "drain"
+    ]
+  },
+  {
+    "value": "drawer",
+    "synonyms": [
+      "drawer"
+    ]
+  },
+  {
+    "value": "dress",
+    "synonyms": [
+      "dress"
+    ]
+  },
+  {
+    "value": "drop",
+    "synonyms": [
+      "drop"
+    ]
+  },
+  {
+    "value": "ear",
+    "synonyms": [
+      "ear"
+    ]
+  },
+  {
+    "value": "egg",
+    "synonyms": [
+      "egg"
+    ]
+  },
+  {
+    "value": "engine",
+    "synonyms": [
+      "engine"
+    ]
+  },
+  {
+    "value": "eye",
+    "synonyms": [
+      "eye"
+    ]
+  },
+  {
+    "value": "face",
+    "synonyms": [
+      "face"
+    ]
+  },
+  {
+    "value": "farm",
+    "synonyms": [
+      "farm"
+    ]
+  },
+  {
+    "value": "feather",
+    "synonyms": [
+      "feather"
+    ]
+  },
+  {
+    "value": "finger",
+    "synonyms": [
+      "finger"
+    ]
+  },
+  {
+    "value": "fish",
+    "synonyms": [
+      "fish"
+    ]
+  },
+  {
+    "value": "flag",
+    "synonyms": [
+      "flag"
+    ]
+  },
+  {
+    "value": "floor",
+    "synonyms": [
+      "floor"
+    ]
+  },
+  {
+    "value": "fly",
+    "synonyms": [
+      "fly"
+    ]
+  },
+  {
+    "value": "foot",
+    "synonyms": [
+      "foot"
+    ]
+  },
+  {
+    "value": "fork",
+    "synonyms": [
+      "fork"
+    ]
+  },
+  {
+    "value": "fowl",
+    "synonyms": [
+      "fowl"
+    ]
+  },
+  {
+    "value": "frame",
+    "synonyms": [
+      "frame"
+    ]
+  },
+  {
+    "value": "garden",
+    "synonyms": [
+      "garden"
+    ]
+  },
+  {
+    "value": "girl",
+    "synonyms": [
+      "girl"
+    ]
+  },
+  {
+    "value": "glove",
+    "synonyms": [
+      "glove"
+    ]
+  },
+  {
+    "value": "goat",
+    "synonyms": [
+      "goat"
+    ]
+  },
+  {
+    "value": "gun",
+    "synonyms": [
+      "gun"
+    ]
+  },
+  {
+    "value": "hair",
+    "synonyms": [
+      "hair"
+    ]
+  },
+  {
+    "value": "hammer",
+    "synonyms": [
+      "hammer"
+    ]
+  },
+  {
+    "value": "hand",
+    "synonyms": [
+      "hand"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "hat"
+    ]
+  },
+  {
+    "value": "head",
+    "synonyms": [
+      "head"
+    ]
+  },
+  {
+    "value": "heart",
+    "synonyms": [
+      "heart"
+    ]
+  },
+  {
+    "value": "hook",
+    "synonyms": [
+      "hook"
+    ]
+  },
+  {
+    "value": "horn",
+    "synonyms": [
+      "horn"
+    ]
+  },
+  {
+    "value": "horse",
+    "synonyms": [
+      "horse"
+    ]
+  },
+  {
+    "value": "hospital",
+    "synonyms": [
+      "hospital"
+    ]
+  },
+  {
+    "value": "house",
+    "synonyms": [
+      "house"
+    ]
+  },
+  {
+    "value": "island",
+    "synonyms": [
+      "island"
+    ]
+  },
+  {
+    "value": "jewel",
+    "synonyms": [
+      "jewel"
+    ]
+  },
+  {
+    "value": "kettle",
+    "synonyms": [
+      "kettle"
+    ]
+  },
+  {
+    "value": "key",
+    "synonyms": [
+      "key"
+    ]
+  },
+  {
+    "value": "knee",
+    "synonyms": [
+      "knee"
+    ]
+  },
+  {
+    "value": "knife",
+    "synonyms": [
+      "knife"
+    ]
+  },
+  {
+    "value": "knot",
+    "synonyms": [
+      "knot"
+    ]
+  },
+  {
+    "value": "leaf",
+    "synonyms": [
+      "leaf"
+    ]
+  },
+  {
+    "value": "leg",
+    "synonyms": [
+      "leg"
+    ]
+  },
+  {
+    "value": "library",
+    "synonyms": [
+      "library"
+    ]
+  },
+  {
+    "value": "line",
+    "synonyms": [
+      "line"
+    ]
+  },
+  {
+    "value": "lip",
+    "synonyms": [
+      "lip"
+    ]
+  },
+  {
+    "value": "lock",
+    "synonyms": [
+      "lock"
+    ]
+  },
+  {
+    "value": "map",
+    "synonyms": [
+      "map"
+    ]
+  },
+  {
+    "value": "match",
+    "synonyms": [
+      "match"
+    ]
+  },
+  {
+    "value": "monkey",
+    "synonyms": [
+      "monkey"
+    ]
+  },
+  {
+    "value": "moon",
+    "synonyms": [
+      "moon"
+    ]
+  },
+  {
+    "value": "mouth",
+    "synonyms": [
+      "mouth"
+    ]
+  },
+  {
+    "value": "muscle",
+    "synonyms": [
+      "muscle"
+    ]
+  },
+  {
+    "value": "nail",
+    "synonyms": [
+      "nail"
+    ]
+  },
+  {
+    "value": "neck",
+    "synonyms": [
+      "neck"
+    ]
+  },
+  {
+    "value": "needle",
+    "synonyms": [
+      "needle"
+    ]
+  },
+  {
+    "value": "nerve",
+    "synonyms": [
+      "nerve"
+    ]
+  },
+  {
+    "value": "net",
+    "synonyms": [
+      "net"
+    ]
+  },
+  {
+    "value": "nose",
+    "synonyms": [
+      "nose"
+    ]
+  },
+  {
+    "value": "nut",
+    "synonyms": [
+      "nut"
+    ]
+  },
+  {
+    "value": "office",
+    "synonyms": [
+      "office"
+    ]
+  },
+  {
+    "value": "orange",
+    "synonyms": [
+      "orange"
+    ]
+  },
+  {
+    "value": "oven",
+    "synonyms": [
+      "oven"
+    ]
+  },
+  {
+    "value": "parcel",
+    "synonyms": [
+      "parcel"
+    ]
+  },
+  {
+    "value": "pen",
+    "synonyms": [
+      "pen"
+    ]
+  },
+  {
+    "value": "pencil",
+    "synonyms": [
+      "pencil"
+    ]
+  },
+  {
+    "value": "picture",
+    "synonyms": [
+      "picture"
+    ]
+  },
+  {
+    "value": "pig",
+    "synonyms": [
+      "pig"
+    ]
+  },
+  {
+    "value": "pin",
+    "synonyms": [
+      "pin"
+    ]
+  },
+  {
+    "value": "pipe",
+    "synonyms": [
+      "pipe"
+    ]
+  },
+  {
+    "value": "plane",
+    "synonyms": [
+      "plane"
+    ]
+  },
+  {
+    "value": "plate",
+    "synonyms": [
+      "plate"
+    ]
+  },
+  {
+    "value": "plow",
+    "synonyms": [
+      "plow"
+    ]
+  },
+  {
+    "value": "pocket",
+    "synonyms": [
+      "pocket"
+    ]
+  },
+  {
+    "value": "pot",
+    "synonyms": [
+      "pot"
+    ]
+  },
+  {
+    "value": "potato",
+    "synonyms": [
+      "potato"
+    ]
+  },
+  {
+    "value": "prison",
+    "synonyms": [
+      "prison"
+    ]
+  },
+  {
+    "value": "pump",
+    "synonyms": [
+      "pump"
+    ]
+  },
+  {
+    "value": "rail",
+    "synonyms": [
+      "rail"
+    ]
+  },
+  {
+    "value": "rat",
+    "synonyms": [
+      "rat"
+    ]
+  },
+  {
+    "value": "receipt",
+    "synonyms": [
+      "receipt"
+    ]
+  },
+  {
+    "value": "ring",
+    "synonyms": [
+      "ring"
+    ]
+  },
+  {
+    "value": "rod",
+    "synonyms": [
+      "rod"
+    ]
+  },
+  {
+    "value": "roof",
+    "synonyms": [
+      "roof"
+    ]
+  },
+  {
+    "value": "root",
+    "synonyms": [
+      "root"
+    ]
+  },
+  {
+    "value": "sail",
+    "synonyms": [
+      "sail"
+    ]
+  },
+  {
+    "value": "school",
+    "synonyms": [
+      "school"
+    ]
+  },
+  {
+    "value": "scissors",
+    "synonyms": [
+      "scissors"
+    ]
+  },
+  {
+    "value": "screw",
+    "synonyms": [
+      "screw"
+    ]
+  },
+  {
+    "value": "seed",
+    "synonyms": [
+      "seed"
+    ]
+  },
+  {
+    "value": "sheep",
+    "synonyms": [
+      "sheep"
+    ]
+  },
+  {
+    "value": "shelf",
+    "synonyms": [
+      "shelf"
+    ]
+  },
+  {
+    "value": "ship",
+    "synonyms": [
+      "ship"
+    ]
+  },
+  {
+    "value": "shirt",
+    "synonyms": [
+      "shirt"
+    ]
+  },
+  {
+    "value": "shoe",
+    "synonyms": [
+      "shoe"
+    ]
+  },
+  {
+    "value": "skin",
+    "synonyms": [
+      "skin"
+    ]
+  },
+  {
+    "value": "skirt",
+    "synonyms": [
+      "skirt"
+    ]
+  },
+  {
+    "value": "snake",
+    "synonyms": [
+      "snake"
+    ]
+  },
+  {
+    "value": "sock",
+    "synonyms": [
+      "sock"
+    ]
+  },
+  {
+    "value": "spade",
+    "synonyms": [
+      "spade"
+    ]
+  },
+  {
+    "value": "sponge",
+    "synonyms": [
+      "sponge"
+    ]
+  },
+  {
+    "value": "spoon",
+    "synonyms": [
+      "spoon"
+    ]
+  },
+  {
+    "value": "spring",
+    "synonyms": [
+      "spring"
+    ]
+  },
+  {
+    "value": "square",
+    "synonyms": [
+      "square"
+    ]
+  },
+  {
+    "value": "stamp",
+    "synonyms": [
+      "stamp"
+    ]
+  },
+  {
+    "value": "star",
+    "synonyms": [
+      "star"
+    ]
+  },
+  {
+    "value": "station",
+    "synonyms": [
+      "station"
+    ]
+  },
+  {
+    "value": "stem",
+    "synonyms": [
+      "stem"
+    ]
+  },
+  {
+    "value": "stick",
+    "synonyms": [
+      "stick"
+    ]
+  },
+  {
+    "value": "stocking",
+    "synonyms": [
+      "stocking"
+    ]
+  },
+  {
+    "value": "stomach",
+    "synonyms": [
+      "stomach"
+    ]
+  },
+  {
+    "value": "store",
+    "synonyms": [
+      "store"
+    ]
+  },
+  {
+    "value": "street",
+    "synonyms": [
+      "street"
+    ]
+  },
+  {
+    "value": "sun",
+    "synonyms": [
+      "sun"
+    ]
+  },
+  {
+    "value": "table",
+    "synonyms": [
+      "table"
+    ]
+  },
+  {
+    "value": "tail",
+    "synonyms": [
+      "tail"
+    ]
+  },
+  {
+    "value": "thread",
+    "synonyms": [
+      "thread"
+    ]
+  },
+  {
+    "value": "throat",
+    "synonyms": [
+      "throat"
+    ]
+  },
+  {
+    "value": "thumb",
+    "synonyms": [
+      "thumb"
+    ]
+  },
+  {
+    "value": "ticket",
+    "synonyms": [
+      "ticket"
+    ]
+  },
+  {
+    "value": "toe",
+    "synonyms": [
+      "toe"
+    ]
+  },
+  {
+    "value": "tongue",
+    "synonyms": [
+      "tongue"
+    ]
+  },
+  {
+    "value": "tooth",
+    "synonyms": [
+      "tooth"
+    ]
+  },
+  {
+    "value": "town",
+    "synonyms": [
+      "town"
+    ]
+  },
+  {
+    "value": "train",
+    "synonyms": [
+      "train"
+    ]
+  },
+  {
+    "value": "tray",
+    "synonyms": [
+      "tray"
+    ]
+  },
+  {
+    "value": "tree",
+    "synonyms": [
+      "tree"
+    ]
+  },
+  {
+    "value": "trousers",
+    "synonyms": [
+      "trousers"
+    ]
+  },
+  {
+    "value": "umbrella",
+    "synonyms": [
+      "umbrella"
+    ]
+  },
+  {
+    "value": "wall",
+    "synonyms": [
+      "wall"
+    ]
+  },
+  {
+    "value": "watch",
+    "synonyms": [
+      "watch"
+    ]
+  },
+  {
+    "value": "wheel",
+    "synonyms": [
+      "wheel"
+    ]
+  },
+  {
+    "value": "whip",
+    "synonyms": [
+      "whip"
+    ]
+  },
+  {
+    "value": "whistle",
+    "synonyms": [
+      "whistle"
+    ]
+  },
+  {
+    "value": "window",
+    "synonyms": [
+      "window"
+    ]
+  },
+  {
+    "value": "wing",
+    "synonyms": [
+      "wing"
+    ]
+  },
+  {
+    "value": "wire",
+    "synonyms": [
+      "wire"
+    ]
+  },
+  {
+    "value": "worm",
+    "synonyms": [
+      "worm"
+    ]
+  }
+]

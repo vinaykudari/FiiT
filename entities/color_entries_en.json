@@ -1,0 +1,74 @@
+[
+  {
+    "value": "blue",
+    "synonyms": [
+      "blue"
+    ]
+  },
+  {
+    "value": "red",
+    "synonyms": [
+      "red"
+    ]
+  },
+  {
+    "value": "white",
+    "synonyms": [
+      "white"
+    ]
+  },
+  {
+    "value": "black",
+    "synonyms": [
+      "black"
+    ]
+  },
+  {
+    "value": "yellow",
+    "synonyms": [
+      "yellow"
+    ]
+  },
+  {
+    "value": "pink",
+    "synonyms": [
+      "pink"
+    ]
+  },
+  {
+    "value": "purple",
+    "synonyms": [
+      "purple"
+    ]
+  },
+  {
+    "value": "brown",
+    "synonyms": [
+      "brown"
+    ]
+  },
+  {
+    "value": "gray",
+    "synonyms": [
+      "gray"
+    ]
+  },
+  {
+    "value": "maroon",
+    "synonyms": [
+      "maroon"
+    ]
+  },
+  {
+    "value": "orange",
+    "synonyms": [
+      "orange"
+    ]
+  },
+  {
+    "value": "green",
+    "synonyms": [
+      "green"
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "value": "apple",
+    "synonyms": [
+      "apple"
+    ]
+  },
+  {
+    "value": "mi",
+    "synonyms": [
+      "mi",
+      "redmi",
+      "note"
+    ]
+  },
+  {
+    "value": "samsung",
+    "synonyms": [
+      "samsung"
+    ]
+  },
+  {
+    "value": "lenovo",
+    "synonyms": [
+      "lenovo",
+      "lenova"
+    ]
+  },
+  {
+    "value": "dell",
+    "synonyms": [
+      "dell"
+    ]
+  },
+  {
+    "value": "hp",
+    "synonyms": [
+      "hp",
+      "hewlett packard"
+    ]
+  },
+  {
+    "value": "arihant",
+    "synonyms": [
+      "arihant"
+    ]
+  },
+  {
+    "value": "sony",
+    "synonyms": [
+      "sony"
+    ]
+  },
+  {
+    "value": "philips",
+    "synonyms": [
+      "philips"
+    ]
+  },
+  {
+    "value": "asus",
+    "synonyms": [
+      "asus"
+    ]
+  },
+  {
+    "value": "moto",
+    "synonyms": [
+      "moto"
+    ]
+  },
+  {
+    "value": "nikon",
+    "synonyms": [
+      "nikon"
+    ]
+  },
+  {
+    "value": "canon",
+    "synonyms": [
+      "canon"
+    ]
+  },
+  {
+    "value": "levis",
+    "synonyms": [
+      "levis"
+    ]
+  },
+  {
+    "value": "pepe jeans",
+    "synonyms": [
+      "pepe jeans"
+    ]
+  },
+  {
+    "value": "time",
+    "synonyms": [
+      "time"
+    ]
+  },
+  {
+    "value": "amazon",
+    "synonyms": [
+      "amazon"
+    ]
+  },
+  {
+    "value": "puma",
+    "synonyms": [
+      "puma"
+    ]
+  },
+  {
+    "value": "nike",
+    "synonyms": [
+      "nike"
+    ]
+  },
+  {
+    "value": "adidas",
+    "synonyms": [
+      "adidas"
+    ]
+  }
+]

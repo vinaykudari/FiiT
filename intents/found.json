@@ -1,0 +1,102 @@
+{
+  "id": "6d8c1f27-89f2-43eb-8d77-f0128c56bd79",
+  "name": "found",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "found",
+      "affectedContexts": [
+        {
+          "name": "found-followup",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "foundsomething",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2672a555-c96d-40bc-8d93-1d4f0c283086",
+          "required": false,
+          "dataType": "@find",
+          "name": "find",
+          "value": "$find",
+          "isList": false
+        },
+        {
+          "id": "01d2f658-f856-4afd-a5d8-5becc10ca25f",
+          "required": true,
+          "dataType": "@item",
+          "name": "item",
+          "value": "$item",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What was it that you found ?"
+            },
+            {
+              "lang": "en",
+              "value": "What was it ?"
+            },
+            {
+              "lang": "en",
+              "value": "What did you find ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ee748a06-0f05-46b3-9ae7-0b0383f8cddd",
+          "required": true,
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where did you find it ?"
+            },
+            {
+              "lang": "en",
+              "value": "Where was the $item found ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "fadd3ef0-be8f-415f-bbce-47e7aadbbd94",
+          "required": false,
+          "dataType": "@color",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Can you help me with your personal details ? It I\u0027ll help me connect you with the person who lost his $item",
+            "Can I know your personal details in order to connect you with the person who lost his $item ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522700604,
+  "fallbackIntent": false,
+  "events": []
+}

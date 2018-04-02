@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67a9ba43-ca02-46c3-8741-e1057d3a1be2",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3057cd9f-830a-4a10-b4f2-6cfc5c20db86",
+    "data": [
+      {
+        "text": "nope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d8ed6af-59af-4af7-9fc7-87207a173988",
+    "data": [
+      {
+        "text": "i don’t share personal details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522590180
+  },
+  {
+    "id": "c537ca98-52ba-4a16-ae47-18f7a84243af",
+    "data": [
+      {
+        "text": "I don\u0027t want that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522590180
+  },
+  {
+    "id": "fd4db053-d1ba-4249-9506-20a7751e364b",
+    "data": [
+      {
+        "text": "don\u0027t do it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522590180
+  },
+  {
+    "id": "896c08f2-8399-4e20-afe1-674de6003f5c",
+    "data": [
+      {
+        "text": "I disagree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1522590180
+  },
+  {
+    "id": "39283605-9c83-4893-a291-b95a6342c107",
+    "data": [
+      {
+        "text": "I don\u0027t think so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522590180
+  },
+  {
+    "id": "69fe7e84-3138-4a76-ba47-d30bd34189ee",
+    "data": [
+      {
+        "text": "not really",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522590180
+  },
+  {
+    "id": "5617a788-89ad-4b2e-9173-3ec681b10986",
+    "data": [
+      {
+        "text": "not interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522590180
+  },
+  {
+    "id": "f2d2afa2-e930-448e-aaac-75d26be291c8",
+    "data": [
+      {
+        "text": "definitely not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1522590180
+  }
+]

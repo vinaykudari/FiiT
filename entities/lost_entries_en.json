@@ -1,0 +1,43 @@
+[
+  {
+    "value": "misplaced",
+    "synonyms": [
+      "misplaced",
+      "mislaid"
+    ]
+  },
+  {
+    "value": "forgot",
+    "synonyms": [
+      "forgot"
+    ]
+  },
+  {
+    "value": "left",
+    "synonyms": [
+      "left",
+      "i left it"
+    ]
+  },
+  {
+    "value": "slipped",
+    "synonyms": [
+      "slipped",
+      "it slipped"
+    ]
+  },
+  {
+    "value": "lost",
+    "synonyms": [
+      "lost",
+      "i lost"
+    ]
+  },
+  {
+    "value": "stole",
+    "synonyms": [
+      "stole",
+      "someone stole my"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "id": "60ab26ac-653c-4c1c-bccc-e828058e1e5c",
+  "parentId": "6d8c1f27-89f2-43eb-8d77-f0128c56bd79",
+  "rootParentId": "6d8c1f27-89f2-43eb-8d77-f0128c56bd79",
+  "name": "Collect Personal Details",
+  "auto": true,
+  "contexts": [
+    "found-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "found.found-yes",
+      "affectedContexts": [
+        {
+          "name": "collectedfindersdetails",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "93a355a5-2ba6-4758-a3f0-5126b72180fc",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Whats your name ?"
+            },
+            {
+              "lang": "en",
+              "value": "Please let me know your name."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d84e7b4c-f882-4ffe-838e-9b849f15e81b",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "mobile_num",
+          "value": "$mobile_num",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "and your contact number ?"
+            },
+            {
+              "lang": "en",
+              "value": "Your contact number please ?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Great! Pick the item with you, concerned person will contact you soon :)",
+            "Thanks for taking your time to help, I\u0027ll inform the person who has lost it he i\u0027ll get in touch with you soon."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522700457,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ca9bfde5-558b-412b-8d43-a28760b559cb",
+  "name": "lost",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "918afa2e-888f-42a3-937b-ba4a847859fb",
+          "required": false,
+          "dataType": "@lost",
+          "name": "lost",
+          "value": "$lost",
+          "isList": true
+        },
+        {
+          "id": "a02c0094-20fe-4a9a-8d5d-55e87384cd14",
+          "required": true,
+          "dataType": "@item",
+          "name": "item",
+          "value": "$item",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you please specify what was lost ?"
+            },
+            {
+              "lang": "en",
+              "value": "What is it that you lost ?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "86a765e3-0700-4757-97cd-7ca675e967d0",
+          "required": true,
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where did you loose it ?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "22e4f523-c2a6-4ea9-81e3-dcf539eb5be4",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "d875a379-5675-420a-8da9-24ffd986157c",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        },
+        {
+          "id": "602193fe-f2e0-4b64-86e0-e8e08f3f5233",
+          "required": false,
+          "dataType": "@color",
+          "name": "color",
+          "value": "$color",
+          "isList": false
+        },
+        {
+          "id": "fafd24fd-2c93-4168-952d-db90be0b3c6b",
+          "required": false,
+          "dataType": "@brand",
+          "name": "brand",
+          "value": "$brand",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m sorry to hear, give me few moments to check."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522688299,
+  "fallbackIntent": false,
+  "events": []
+}

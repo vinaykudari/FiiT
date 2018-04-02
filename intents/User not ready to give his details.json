@@ -1,0 +1,44 @@
+{
+  "id": "bbe984e3-8388-4ad5-9da9-25526376710a",
+  "parentId": "6d8c1f27-89f2-43eb-8d77-f0128c56bd79",
+  "rootParentId": "6d8c1f27-89f2-43eb-8d77-f0128c56bd79",
+  "name": "User not ready to give his details",
+  "auto": true,
+  "contexts": [
+    "found-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "found.found-no",
+      "affectedContexts": [
+        {
+          "name": "notinterested",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "found-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your personal details are secured it will be only shared with the person who lost his item, will you help me with your details please ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522689017,
+  "fallbackIntent": false,
+  "events": []
+}
