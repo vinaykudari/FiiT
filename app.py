@@ -24,7 +24,7 @@ def webhook():
     res = makeWebhookResult(req)
 
     res = json.dumps(res, indent=4)
-    # print(res)
+    print(res)
     r = make_response(res)
     r.headers['Content-Type'] = 'application/json'
     return r
@@ -74,22 +74,28 @@ def makeWebhookResult(req):
 
         conn = db.connect('itemdata.db')
         c = conn.cursor()
+        temp = ''
 
         result = req.get("result")
         parameters = result.get("parameters")
         l_location = parameters.get("location") 
         l_item = parameters.get("item")
 
-        query = "SELECT * from found_items where item = '" + l_item + "' AND f_location = '" + l_location + "'"
+        query = "SELECT f_name, f_num from found_items where item = '" + l_item + "' AND f_location = '" + l_location + "'"
         query_count = "SELECT COUNT(*) FROM (" + query + ")"
 
         query_res = pd.read_sql_query(query, conn)
         query_res_count = pd.read_sql_query(query_count, conn)
 
-        print(query_res_count)
+        print(query_res)
 
-        lost_not_found = 'Sorry the item wasnt found yet, I will let you know ones anyone informs me, Can you help me with your personal details ?'
-        lost_found = 'I found ' + str(query_res_count.iloc[0]['COUNT(*)']) + ' items matching yours'
+        lost_not_found = 'Sorry the ' + l_item + ' wasnt reported to be found yet, Please check again after a while :)'
+        lost_found = str(query_res_count.iloc[0]['COUNT(*)']) + ' people reported that they found ' + l_item + ' near ' + l_location + '. Here are the details \n'
+
+        for i in range(query_res_count.iloc[0]['COUNT(*)']):
+            temp = temp + (query_res.iloc[i]['f_name'] + "   " + query_res.iloc[i]['f_num'] + "  \n")
+            
+        web_res = lost_found + temp
 
         if(query_res.empty):
 
@@ -100,8 +106,17 @@ def makeWebhookResult(req):
 
         else:
             return {
-                "speech" : lost_found,
-                "displayText" : lost_found
+                    "speech" : web_res,
+                    "messages" : [
+                        {
+                            "type" : 0,
+                            "speech" : lost_found
+                        },
+                        {
+                            "type" : 0,
+                            "speech" : temp
+                        }
+                    ]
             }
 
 if __name__ == '__main__':
