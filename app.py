@@ -70,6 +70,40 @@ def makeWebhookResult(req):
             "displayText": found_yes_res
         }
 
+    elif req.get("result").get("action") == "lost":
+
+        conn = db.connect('itemdata.db')
+        c = conn.cursor()
+
+        result = req.get("result")
+        parameters = result.get("parameters")
+        l_location = parameters.get("location") 
+        l_item = parameters.get("item")
+
+        query = "SELECT * from found_items where item = '" + l_item + "' AND f_location = '" + l_location + "'"
+        query_count = "SELECT COUNT(*) FROM (" + query + ")"
+
+        query_res = pd.read_sql_query(query, conn)
+        query_res_count = pd.read_sql_query(query_count, conn)
+
+        print(query_res_count)
+
+        lost_not_found = 'Sorry the item wasnt found yet, I will let you know ones anyone informs me, Can you help me with your personal details ?'
+        lost_found = 'I found ' + str(query_res_count.iloc[0]['COUNT(*)']) + ' items matching yours'
+
+        if(query_res.empty):
+
+            return {
+                "speech": lost_not_found,
+                "displayText": lost_not_found
+            }
+
+        else:
+            return {
+                "speech" : lost_found,
+                "displayText" : lost_found
+            }
+
 if __name__ == '__main__':
     port = int(os.getenv('PORT', 80))
 
