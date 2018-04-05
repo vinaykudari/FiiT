@@ -1,5 +1,5 @@
 {
-  "description": "Lost anything ? You came to the right place I will help you find it.",
+  "description": "Lost anything ? I will help you find it.",
   "language": "en",
   "activeAssistantAgents": [
     "smalltalk-domain-on",
@@ -13,7 +13,8 @@
     "startIntents": [],
     "systemIntents": [],
     "endIntentIds": [
-      "60ab26ac-653c-4c1c-bccc-e828058e1e5c"
+      "60ab26ac-653c-4c1c-bccc-e828058e1e5c",
+      "ca9bfde5-558b-412b-8d43-a28760b559cb"
     ],
     "oAuthLinking": {
       "required": false,
@@ -25,7 +26,7 @@
   },
   "defaultTimezone": "Asia/Colombo",
   "webhook": {
-    "url": "http://c2a5438b.ngrok.io/webhook",
+    "url": "http://b6d56cef.ngrok.io/webhook",
     "headers": {
       "": ""
     },

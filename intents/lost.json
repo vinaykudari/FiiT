@@ -6,7 +6,14 @@
   "responses": [
     {
       "resetContexts": false,
-      "affectedContexts": [],
+      "action": "lost",
+      "affectedContexts": [
+        {
+          "name": "lost-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "918afa2e-888f-42a3-937b-ba4a847859fb",
@@ -46,7 +53,7 @@
               "value": "Where did you loose it ?"
             }
           ],
-          "isList": true
+          "isList": false
         },
         {
           "id": "22e4f523-c2a6-4ea9-81e3-dcf539eb5be4",
@@ -79,6 +86,13 @@
           "name": "brand",
           "value": "$brand",
           "isList": false
+        },
+        {
+          "id": "f265018e-7b0c-4f79-8ab3-6bc550c0d6cd",
+          "dataType": "@location",
+          "name": "location1",
+          "value": "$location1",
+          "isList": false
         }
       ],
       "messages": [
@@ -93,9 +107,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522688299,
+  "lastUpdate": 1522873853,
   "fallbackIntent": false,
   "events": []
 }
