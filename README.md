@@ -1,4 +1,5 @@
-![FiiT](/.github/assets/logo.png) #FiiT
+<img align="left" src='/.github/assets/logo.png'>
+#FiiT
 
 ***
 
