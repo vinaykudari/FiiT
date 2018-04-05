@@ -1,4 +1,4 @@
-# FiiT
+# FiiT - TheFinderBot
 <img align="left" src='/.github/assets/logo.png'>
 
 ***
